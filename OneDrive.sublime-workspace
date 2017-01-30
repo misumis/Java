@@ -1,0 +1,484 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"paintStar"
+			],
+			[
+				"change",
+				"addChangeListener"
+			],
+			[
+				"al",
+				"alphaValue"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"alp",
+				"alphaSlider"
+			],
+			[
+				"ALP",
+				"ALPHA_MAX"
+			],
+			[
+				"AL",
+				"ALPHA_MIN"
+			],
+			[
+				"C",
+				"Curve"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"ahk",
+				"ahk_exe"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"size",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 85.0,
+		"last_filter": "PackageResour",
+		"selected_items":
+		[
+			[
+				"PackageResour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: method (main)"
+			],
+			[
+				"Snippet: java",
+				"Snippet: java.beans."
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"plugin",
+				"Plugin Development: Profile Events"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/OneDrive/CPP",
+		"/D/OneDrive/C#",
+		"/D/OneDrive/Java",
+		"/D/OneDrive/Txt",
+		"/D/OneDrive/HTMLCSS",
+		"/D/OneDrive/Autohotkeys",
+		"/D/OneDrive/C"
+	],
+	"file_history":
+	[
+		"/D/OneDrive/Txt/Nowy dokument tekstowy.txt",
+		"/C/Users/Michał/Downloads/dbgu.h",
+		"/D/OneDrive/Documents/YEEEBOIIIIIIIIIII.txt",
+		"/C/Users/Michał/Desktop/DBGU.h",
+		"/C/Users/Michał/AppData/Local/Temp/Rar$DIa0.851/DBGU.c",
+		"/D/OneDrive/Java/.git/config",
+		"/D/OneDrive/Txt/TekstNaGrafike",
+		"/C/Users/Michał/Desktop/starfield-master/star/Star.java",
+		"/C/Users/Michał/Desktop/starfield-master/star/Starfield.java",
+		"/D/OneDrive/Java/ExeptHandle/ExeptHandle.java",
+		"/C/Users/Michał/Desktop/starfield-master/README.md",
+		"/D/OneDrive/Java/Test/Test.java",
+		"/D/OneDrive/Java/ExeptHandle/Makefile",
+		"/D/OneDrive/Java/Test/Makefile",
+		"/D/OneDrive/Java/Starfield/Starfield.java",
+		"/D/OneDrive/Java/Starfield/Star.java",
+		"/C/Users/Michał/AppData/Local/Temp/Rar$DIa0.852/CMakeLists.txt",
+		"/C/Users/Michał/Desktop/crosshair.txt",
+		"/C/Users/Michał/Desktop/asdf.txt",
+		"/C/Users/Michał/Desktop/Form1.cs",
+		"/D/OneDrive/Autohotkeys/ChangeResolution.ahk",
+		"/C/Program Files (x86)/Steam/steamapps/common/H1Z1 King of the Kill/welcome.txt",
+		"/D/Torrenty/Sherlock.S04E01.REPACK.720p.HDTV.x264-FoV[ettv]/sherlock.4x01.repack_720p_hdtv_x264-fov[ettv].mkv.txt",
+		"/D/OneDrive/Java/PO Java Zadania/Lab4Zad1/FileExample.java",
+		"/D/OneDrive/Txt/1.Damian",
+		"/D/OneDrive/Java/PrimalNumbers/PrimalNumbers.java",
+		"/D/Program Files (x86)/Honey Select/WinRoot/illusion/HoneySelect/Plugins/UITranslation/HoneySelect/Text/.log.txt",
+		"/C/Users/Michał/Desktop/starfield-master/game/RenderEngine.java",
+		"/C/Users/Michał/Desktop/starfield-master/star/Perspective.java",
+		"/C/Users/Michał/Desktop/starfield-master/game/GameFrame.java",
+		"/D/OneDrive/doskey.bat",
+		"/D/OneDrive/Txt/Damianero.txt",
+		"/C/Users/Michał/AppData/Local/Temp/707D.tmp.txt",
+		"/C/Users/Michał/AppData/Roaming/Spotify/prefs",
+		"/D/Program Files (x86)/Steam/steamapps/common/Grid/system/hardware_settings_config.xml",
+		"/D/OneDrive/Java/Starfield/src/test/HelloWorld.java",
+		"/D/OneDrive/Java/Starfield/src/test/swing/MatrixRain.java",
+		"/D/OneDrive/Java/Starfield/src/test/swing/Snake.java",
+		"/D/OneDrive/Java/TestMenu/Starfield.java",
+		"/C/Users/Michał/AppData/Roaming/Sublime Text 3/Packages/Theme - SoDaReloaded/dark/SoDaReloaded Dark.sublime-theme",
+		"/C/Users/Michał/AppData/Roaming/Sublime Text 3/Packages/Bubububububad and Boneyfied Color Schemes/Boneyfied.tmTheme",
+		"/C/Users/Michał/AppData/Roaming/Sublime Text 3/Packages/PackageResourceViewer/README.md",
+		"/D/OneDrive/Java/Starfield/make.bat",
+		"/D/OneDrive/Txt/Herkules(1997) Transkrypt.txt",
+		"/C/Users/Michał/Desktop/pyton/main.py",
+		"/C/Users/Michał/Desktop/adgaff.txt",
+		"/C/Users/Michał/Desktop/lab6/main.c",
+		"/D/OneDrive/C#/HotCircle/main.cs",
+		"/D/Program Files (x86)/Steam/steamapps/common/DiRT 3 Complete Edition/hardwaresettings/hardware_settings_config.xml",
+		"/C/Users/Michał/Downloads/converted.txt",
+		"/C/Users/Michał/Downloads/Nowy-dokument-tekstowy-4.txt",
+		"/D/OneDrive/Txt/Damianero",
+		"/C/Users/Michał/Desktop/lab5/AT91SAM9263.h",
+		"/C/Users/Michał/Desktop/lab5/Init.h",
+		"/C/Users/Michał/Desktop/lab5/Init.c",
+		"/C/Users/Michał/Desktop/lab5/main.c",
+		"/C/Users/Michał/AppData/Local/Temp/Rar$DIa0.918/readme.txt",
+		"/D/Program Files/Sublime Text 3/Packages/Theme - Default.sublime-package",
+		"/D/Program Files/Sublime Text 3/Packages/Color Scheme - Default.sublime-package",
+		"/C/Users/Michał/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Michał/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/D/OneDrive/C#/HotCircle/make.bat",
+		"/C/Users/Michał/Desktop/roslyn-master/README.md",
+		"/C/Users/Michał/Desktop/roslyn-master/Makefile",
+		"/D/OneDrive/Autohotkeys/250ms — kopia.ahk",
+		"/D/Torrenty/Adobe Illustrator CC 2015 19.0.0 (64-Bit) + Crack/ReadMe.txt",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/OneDrive/Java/TestZad3/test.java",
+		"/C/Users/Michał/Desktop/Lissajous/make.bat",
+		"/C/Users/Michał/Desktop/Lissajous/Curve.java",
+		"/C/Users/Michał/Desktop/Lissajous/Lissajous.java",
+		"/C/Users/Michał/Desktop/Lissajous/bin/MANIFEST.md",
+		"/C/Users/Michał/Desktop/Lissajous/README.txt",
+		"/C/Users/Michał/Desktop/Lissajous/bin/makejar.bat",
+		"/C/Users/Michał/Desktop/Lissajous/ControlPanel.java",
+		"/C/Users/Michał/Desktop/main (3).c",
+		"/C/Users/Michał/AppData/Local/Temp/Rar$DIa0.118/README.txt",
+		"/C/Users/Michał/Desktop/Lissajous/Lissa.java",
+		"/C/Users/Michał/Desktop/Lissajous/MANIFEST.md",
+		"/C/Users/Michał/AppData/Local/Temp/Rar$DIa0.488/Font License.txt",
+		"/D/OneDrive/HTMLCSS/GUIProjekt/styles.css",
+		"/D/OneDrive/HTMLCSS/GUIProjekt/loginpage.css",
+		"/D/OneDrive/HTMLCSS/GUIProjekt/ReportCard.html",
+		"/D/OneDrive/HTMLCSS/GUIProjekt/courseCatalogue.html",
+		"/D/OneDrive/HTMLCSS/GUIProjekt/General.html",
+		"/D/OneDrive/HTMLCSS/GUIProjekt/index.html",
+		"/D/OneDrive/HTMLCSS/GUIProjekt/logged.html",
+		"/D/OneDrive/HTMLCSS/GUIProjekt/PersonalData.html",
+		"/C/Users/Michał/AppData/Local/Temp/Rar$DIa0.281/FIFO.c",
+		"/D/OneDrive/HTMLCSS/GUIProjekt/meetingTerms.html",
+		"/D/OneDrive/HTMLCSS/GUIProjekt/loginpage.html",
+		"/C/Users/Michał/Desktop/napisy.txt",
+		"/C/Users/Michał/Desktop/napisy (3).txt",
+		"/C/Users/Michał/Desktop/napisy (2).txt",
+		"/C/Users/Michał/Desktop/napisy",
+		"/C/Users/Michał/Desktop/herkules.txt",
+		"/C/Users/Michał/Desktop/herkules.txt.txt",
+		"/C/Users/Michał/Desktop/anti-adblock-killer-master/anti-adblock-killer-master/anti-adblock-killer-filters.txt",
+		"/C/Users/Michał/Desktop/lab4/DBGU.c",
+		"/D/OneDrive/Java/Test/Curve.java",
+		"/D/OneDrive/Java/Test/ControlPanel.java",
+		"/D/OneDrive/Java/Test/make.bat",
+		"/E/main (3).c",
+		"/D/OneDrive/Java/Test/MANIFEST.md",
+		"/D/OneDrive/Java/Test/bin/makejar.bat",
+		"/D/OneDrive/Piosenki/Gdybym...",
+		"/D/OneDrive/HTMLCSS/GUIProjekt/js/login.js",
+		"/C/Users/Michał/Desktop/css/style.css",
+		"/C/Users/Michał/Desktop/index.html",
+		"/D/OneDrive/HTMLCSS/GUIProjekt/courseSchedule.html",
+		"/D/OneDrive/HTMLCSS/TEST/index.html",
+		"/D/OneDrive/HTMLCSS/TEST/styles.css",
+		"/D/OneDrive/Java/Test/bin/MANIFEST.md",
+		"/D/OneDrive/Java/Test/Test.jar",
+		"/D/OneDrive/C/TEST/test.c",
+		"/D/OneDrive/Java/Lab2Zad3/zad3.java",
+		"/D/OneDrive/C/Pointers/pointer.c",
+		"/C/Users/Michał/Downloads/glut.txt",
+		"/C/Users/Michał/Downloads/main (2).c",
+		"/D/OneDrive/HTMLCSS/styles.css",
+		"/D/OneDrive/HTMLCSS/index.html",
+		"/C/Users/Michał/Downloads/main.c",
+		"/C/Users/Michał/Downloads/main (1).c",
+		"/D/Android/download/HarryPortter.txt",
+		"/C/Users/Michał/AppData/Local/Temp/Rar$DIa0.276/STRUS.txt",
+		"/C/Users/Michał/Desktop/fictional.eps",
+		"/C/Users/Michał/Desktop/main.cpp",
+		"/C/Users/Michał/Desktop/XD.txt"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"j",
+			"i",
+			"second",
+			"i",
+			"paintStar",
+			"numberOfStars",
+			"type",
+			"stars",
+			"Star",
+			"HIGHT",
+			"draw",
+			"Draw",
+			"paintComponent",
+			"Test",
+			"FIFO",
+			"AT91C_ID_PIOCDE",
+			"Jump",
+			"Click",
+			"Test",
+			"package",
+			"Test",
+			"¹",
+			"ñ",
+			"œ",
+			"ê",
+			"¿",
+			"³",
+			"¹",
+			"³",
+			"¿",
+			"JTextField",
+			"16a085",
+			"2980b9",
+			"</li>",
+			"<li>",
+			"h1",
+			"DELAY",
+			");\n",
+			"frame",
+			"Curve",
+			"Curve.alpha = alphaSlider.getValue(); ",
+			"double",
+			"ButtonPanel",
+			"window.",
+			"width",
+			"buttonpanel",
+			"drawPanel",
+			"graphics",
+			"construct",
+			"MyPanel",
+			"P",
+			"zad3",
+			"closeFrameButton",
+			"CloseFrame",
+			"kwadrat",
+			"fov"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "OneDrive.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"snippet",
+				"C:\\Users\\Michał\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Parsing Numeric Command-Line Arguments.sublime-snippet"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 482.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
